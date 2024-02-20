@@ -6,6 +6,11 @@ GPT Research tool for market research, competition analysis, etc. Built using Ge
 # Summary
 The solution involves creating research questions from user query, gathering website data through Google Custom Search API and web scraping, processing data using NLP, using vector embeddings and semantic search to obtain relevant information and generating insights with generative AI.
 
+## API's required
+- google_search_api || Get your Google Search API key from [here](https://developers.google.com/custom-search/v1/overview) (free) (LIMIT:100 queries/day)
+- cse_id || Obtain your Custom Search Engine ID from [here](https://programmablesearchengine.google.com/controlpanel/all) (free)
+- GEMINI_API_KEY || Get your GEMINI API key from [here](https://aistudio.google.com/app/apikey) (free) (LIMIT:100 queries/hour)
+
 ## Steps Involved in Creating the Solution
 
 ### Install and Import Libraries: 
