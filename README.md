@@ -1,7 +1,7 @@
 # GPT-Research-tool
 GPT Research tool for market research, competition analysis, etc. Built using Gemini API, Beautiful Soup and FastEmbed | Inspired from [GPT Researcher by assafelovic](https://github.com/assafelovic/gpt-researcher)
 
-**Author: Anand Siva**| [Github](https://github.com/pvanand07) | [Linkedin](https://www.linkedin.com/in/anandsivapv/)
+**Author: Anand Siva**| [Github](https://github.com/pvanand07) | [Linkedin](https://www.linkedin.com/in/anandsivapv/) | [Portfolio](https://anand-analyst.carrd.co/)
 
 # Summary
 The solution involves creating research questions from user query, gathering website data through Google Custom Search API and web scraping, processing data using NLP, using vector embeddings and semantic search to obtain relevant information and generating insights with generative AI.
